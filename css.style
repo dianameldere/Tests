@@ -1,6 +1,6 @@
 .kaste {
 {
-margin-top: 100px
+margin-top: 100px;
 bacround: red;
 width: 20%;
 padding: 5px;
