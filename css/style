@@ -1,13 +1,15 @@
-.kaste {
-{
-margin-top: 100px;
-bacround: red;
-width: 20%;
-padding: 5px;
-border-radius; 5px
-border: 1px solid black;
-border-radius: 5px;
-display: inline-block;
-text-docorantion: none;
-text-align: center;
+.pirmakaste {    
+  border-style: solid;
+  border-color: green;
+  background-color: lightblue;
+  padding: 10%;
+  margin: 30%;
+}
+
+.kaste {    
+  border-style: dotted;
+  border-color: blue;
+  background-color: lightblue;
+  padding: 10px 10px 10px 10px;
+  margin: 30px 20px 30px 20px;
 }
