@@ -1,4 +1,4 @@
-#kaste {
+.kaste {
 {
 margin-top: 100px;
 bacround: red;
