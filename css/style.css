@@ -17,17 +17,11 @@
   max-width: 50%;
   height: auto;
 }
-p {
-  border: 5px solid black;
-  border-style: round;
-}
-</style>
-</head>
-<body>
-
-<p>vārds:</p>
-<p>vecums:</p>
-
-</body>
+p.round3 {
+  border: 2px solid black;
+  border-radius: 12px;
+  padding: 5px;
+  {
+    <p class="round3">Roundest border</p>
+  </body>
 </html>
-  
