@@ -17,3 +17,17 @@
   max-width: 50%;
   height: auto;
 }
+p {
+  border: 5px solid black;
+  vorder-style: round;
+}
+</style>
+</head>
+<body>
+
+<p>vārds:</p>
+<p>vecums:</p>
+
+</body>
+</html>
+  
