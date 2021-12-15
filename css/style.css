@@ -1,17 +1,17 @@
 .pirmakaste {    
   border-style: solid;
-  border-color: green;
-  background-color: lightblue;
+  border-color: white;
+  background-color: red;
   padding: 10%;
   margin: 30%;
 }
 
 .kaste {    
   border-style: dotted;
-  border-color: blue;
-  background-color: lightblue;
+  border-color: white;
+  background-color: red;
   padding: 10px 10px 10px 10px;
-  margin: 200px 20px 200px 20px;
+  margin: 150px 20px 150px 20px;
 }
 .bilde {
   max-width: 50%;
