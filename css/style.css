@@ -22,24 +22,3 @@ p.round3 {
   border-radius: 8px;
   padding: 5px;
   {
-</style>
-</head>
-<body>
-      
-    <p class="round3">Roundest border</p>
-  </body>
-</html>
-  }
-  <html>
-<head>
-<style>
-div {
-  background-color: lightgrey;
-  width: 300px;
-  border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
-}
-</style>
-</head>
-<body>
