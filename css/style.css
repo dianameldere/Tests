@@ -20,12 +20,6 @@
 .apals
 {
   border: 2px solid black;
-  border-radius: 4px;
+  border-radius: 8px;
   padding: 3px;
   {
- background-color: white;
-  width: 300px;
-  border: 15px solid black;
-  padding: 30px;
-  margin: 10px;
-}
